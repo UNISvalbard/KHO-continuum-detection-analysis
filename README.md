@@ -6,7 +6,7 @@ These scripts were written in Jupyter notebook where they can be run in parts (i
 
 MISS-1 & MISS-2 continuum detection:
 - Detect possible continuum spectra in spectral images from the MISS-1 and MISS-2 spectrograph.
-- Detection is based on identifying the three main auroral emission lines and a peak in the row mean.
+- Detection is based on identifying the three main auroral emission lines and a peak in the row-wise mean.
 
 MISS-1 & MISS-2 post-detection analysis:
 - Use the output of the MISS-1 & MISS-2 continuum detection scripts.
