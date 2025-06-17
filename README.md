@@ -22,4 +22,8 @@ magnitude of, for example, solar wind speeds during detected events.
 
 Additional explanations can be found in each script.
 
-@author: Tim Hulsen
+# How to cite
+If you used this code and found it advantageous for your work, consider citing it in your list of references. A recommended citation: Tim Hulsen. (2025). UNISvalbard/KHO-continuum-detection-analysis: Auroral continuum emission - detection and analysis in Python (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15681334
+
+You can also navigate to the publication and export the citation in different styles and formats by clicking the icon below.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15681334.svg)](https://doi.org/10.5281/zenodo.15681334)
